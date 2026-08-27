@@ -1,0 +1,12 @@
+smallest_run,smallest_run_slices,reliable
+Run 2,Slices CA-LL-R,true
+Run 2,Slices CA-RU-R,true
+Run 2,Slices CB-RURL-R,true
+Run 2,Slices CB-LURU-L, true
+Run 2,Slices CA-LL-L,true
+
+Run 1,Slices CA-NM-L,true
+Run 1,Slices CA-LL-L1,false
+Run 1,Slices CA-LL-L2,false
+Run 1,Slices CA-RU-R,true
+Run 1,Slices CB-LLRL-L,false

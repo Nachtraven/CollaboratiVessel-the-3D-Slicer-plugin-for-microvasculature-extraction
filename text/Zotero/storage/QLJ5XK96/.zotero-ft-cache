@@ -1,0 +1,72 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject All
+Skip to Main Content
+Subscribe
+Donate
+Cart
+Journals & Magazines >IEEE Transactions on Biomedic... >Volume: 58 Issue: 8
+Segmentation of Liver Vasculature From Contrast Enhanced CT Images Using Context-Based Voting
+Publisher: IEEE
+Cite This
+Yanling Chi; Jimin Liu; Sudhakar K. Venkatesh; Su Huang; Jiayin Zhou; Qi Tian
+35
+Cites in
+Papers
+1288
+Full
+Text Views
+Abstract
+Authors
+Figures
+References
+Citations
+Keywords
+Metrics
+Footnotes
+I. Introduction
+
+The liver vessel segmentation is the basis of many clinical applications. For example, liver surgical planning requires accurate analysis on the structures of liver vessels and the locations of tumors related to these structures. Automatic and robust vasculature segmentation is, therefore, of great benefit in effective and efficient analysis and quantitative measure of these structures. Liver vessel segmentation in CT images is challenging due to noise. In addition, the vascular anatomy of the liver is complex [1]. There are four different tubular systems that supply and drain the liver: portal vein, hepatic vein, hepatic artery, and bile duct. Since the portal vein, the hepatic artery, and the bile ducts are parallel channels within portal tract, the portal vein and hepatic vein represent the main vessel structures inside the liver. However, the portal vein and hepatic veins show similar intensity value on CT images due to their similarity in the enhancement characteristics. They are curvy, twist, occlude one another and sometimes are seriously distorted by liver tumors. Therefore, it is difficult to segment and distinguish between them. In addition, low contrast and partial volume effect impose more difficulties upon the automatic liver vessel segmentation.
+
+Sign in to Continue Reading
+More Like This
+Portal Vein and Hepatic Vein Segmentation in Multi-Phase MR Images Using Flow-Guided Change Detection
+
+IEEE Transactions on Image Processing
+
+Published: 2022
+
+Performance evaluation of computed tomography liver image segmentation approaches
+
+2012 12th International Conference on Hybrid Intelligent Systems (HIS)
+
+Published: 2012
+
+Show More
+IEEE Personal Account
+CHANGE USERNAME/PASSWORD
+Purchase Details
+PAYMENT OPTIONS
+VIEW PURCHASED DOCUMENTS
+Profile Information
+COMMUNICATIONS PREFERENCES
+PROFESSION AND EDUCATION
+TECHNICAL INTERESTS
+Need Help?
+US & CANADA: +1 800 678 4333
+WORLDWIDE: +1 732 981 0060
+CONTACT & SUPPORT
+Follow
+
+About IEEE Xplore | Contact Us | Help | Accessibility | Terms of Use | Nondiscrimination Policy | IEEE Ethics Reporting | Sitemap | IEEE Privacy Policy
+
+A public charity, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+© Copyright 2025 IEEE - All rights reserved, including rights for text and data mining and training of artificial intelligence and similar technologies.

@@ -1,0 +1,10 @@
+./.git/objects/pack/pack-c5cbcefafcc2718b6addb2c59d668a77abe994a6.pack
+./code/labels/Run 2/SLICES CA-NM-L_x+2250_y+0_z+0/Segmentation.nrrd
+./code/labels/Run 2/SLICES CA-NM-L_x+1800_y+1800_z+319/Segmentation.nrrd
+./code/labels/Run 2/SLICES CA-NM-L_x+900_y+900_z+957/Segmentation.nrrd
+./code/3DSlicer/Slicer-5.10.0-linux-amd64.tar.gz
+./code/3DSlicer/Slicer-5.10.0-win-amd64/Slicer-5.10.0-win-amd64.exe
+./code/3DSlicer/Slicer-5.10.0-linux-amd64/lib/Python/lib/python3.12/site-packages/llvmlite/binding/libllvmlite.so
+./code/3DSlicer/Slicer-5.10.0-linux-amd64/lib/Python/lib/python3.12/site-packages/itk/_ITKImageIntensityPython.abi3.so
+./code/3DSlicer/Slicer-5.10.0-linux-amd64/lib/Python/lib/python3.12/site-packages/SimpleITK/_SimpleITK.abi3.so
+./code/3DSlicer/Slicer-5.10.0-linux-amd64/lib/Slicer-5.10/libQt5WebEngineCore.so.5.15.2

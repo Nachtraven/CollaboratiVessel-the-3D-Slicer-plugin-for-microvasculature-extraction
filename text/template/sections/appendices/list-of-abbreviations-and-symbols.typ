@@ -1,0 +1,20 @@
+
+#table(
+  columns: 2,
+  [CT], [Computed Tomography, method for 3D imaging],
+  [MicroCT], [Microfocus CT],
+  [CECT], [Contrast-Enhanced MicroCT],
+  [CESA], [Contrast-Enhancing Staining Agent],
+  [CCA], [Casting Contrast Agent],
+  [GT], [Ground Truth],
+  [UI], [User Interface],
+  // [API], [Application Programming Interface],
+  [MRML], [Medical Reality Markup Language],
+  [CLI], [Command Line Interface],
+  [RAS], [Right, Anterior, Superior - a co-ordinate frame],
+  // [xxx], [xxx],
+  // [xxx], [xxx],
+  // [xxx], [xxx],
+  // [xxx], [xxx],
+  // [xxx], [xxx],
+)
